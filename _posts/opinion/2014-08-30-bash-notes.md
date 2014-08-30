@@ -5,7 +5,7 @@ description: 记录关于bash的使用经验
 category: opinion 
 ---
 
-##rm
+##1. RM 
 ###用rm批量删除文件时，排除某个文件
 比如，删除当前目录下的所有.c文件，只保存filename.c：
 
